@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+downloaded_manga/
+manga_page_*.png
+.DS_Store
+Thumbs.db

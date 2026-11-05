@@ -1,0 +1,1 @@
+"""Selenium manga assignment package."""
